@@ -4,7 +4,7 @@ System.out.println("Welcome All");
 }
 public void upcomingEvents(){
 System.out.println("CPS upcoming events");
-System.out.println("Party at Deepak House");
+System.out.println("Party at Sudarsan House");
 }
 
 public static void main (String[] args)
