@@ -10,7 +10,7 @@ public void Thoughtfortheday(){
 System.out.println("Welcome All");
 }
 public void upcomingEvents(){
-System.out.println("CPS upcoming events");
+System.out.println("CPS upcoming events - join us");
 for(String event:events)
 System.out.println(events);
 }
